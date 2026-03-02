@@ -1,0 +1,23 @@
+[
+    {
+        "dc:title": "Кобзар",
+        "dc:creator": "Тарас Шевченко",
+        "dc:date": "1840",
+        "dc:coverage": "Київ",
+        "dc:format": "application/pdf"
+    },
+    {
+        "dc:title": "Енеїда",
+        "dc:creator": "Іван Котляревський",
+        "dc:date": "1798",
+        "dc:coverage": "Петербург",
+        "dc:format": "application/pdf"
+    },
+    {
+        "dc:title": "Захар Беркут",
+        "dc:creator": "Іван Франко",
+        "dc:date": "1883",
+        "dc:coverage": "Львів",
+        "dc:format": "application/pdf"
+    }
+]
